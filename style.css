@@ -3,7 +3,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .resource-card{
-    border: 2;
+    border: 5;
     border-radius: 80%;
     border-color: black;
     border-style: dashed;
@@ -11,3 +11,13 @@ body{
 img{
     width: 200px;
 }
+
+.project{
+    border: 2;
+    border-radius: 60%;
+    border-color: red;
+    border-style: solid;
+    background-color:pink;
+}
+
+
