@@ -12,7 +12,7 @@ img{
     width: 200px;
 }
 
-.project, iframe{
+.project{
     border: 2;
     border-radius: 60%;
     border-color: red;
@@ -20,5 +20,9 @@ img{
     background-color:pink;
     
 }
-
-
+iframe {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
